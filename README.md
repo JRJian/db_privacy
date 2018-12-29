@@ -6,7 +6,7 @@ DailyBill is the controller of your personal data, and DailyBill is committed to
 
 # Your personal data.
 
-<u>iCloud</u>. Some Apps may offer you the opportunity to store your data in your iCloud. Your iCloud account is with Apple, not with iBear. When you turn on iCloud Sync on your device, the App will copy your app device data to your private iCloud account. The App will keep the data on your device and the iCloud container in sync. iCloud Sync also allows you to have the app data in sync between several devices that use the same iCloud account. Information stored in iCloud is treated in accordance with the Apple Privacy Policy (please visit [Apple Customer Privacy Policy](http://www.apple.com/legal/privacy/) for more details).
+<u>iCloud</u>. Some Apps may offer you the opportunity to store your data in your iCloud. Your iCloud account is with Apple, not with DailyBill. When you turn on iCloud Sync on your device, the App will copy your app device data to your private iCloud account. The App will keep the data on your device and the iCloud container in sync. iCloud Sync also allows you to have the app data in sync between several devices that use the same iCloud account. Information stored in iCloud is treated in accordance with the Apple Privacy Policy (please visit [Apple Customer Privacy Policy](http://www.apple.com/legal/privacy/) for more details).
 
 # Sharing your Personal Data.
 

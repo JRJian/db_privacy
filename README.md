@@ -6,11 +6,11 @@ DailyBill is the controller of your personal data, and DailyBill is committed to
 
 # Your personal data.
 
-<u>iCloud</u>. Some Apps may offer you the opportunity to store your data in your iCloud. Your iCloud account is with Apple, not with DailyBill. When you turn on iCloud Sync on your device, the App will copy your app device data to your private iCloud account. The App will keep the data on your device and the iCloud container in sync. iCloud Sync also allows you to have the app data in sync between several devices that use the same iCloud account. Information stored in iCloud is treated in accordance with the Apple Privacy Policy (please visit [Apple Customer Privacy Policy](http://www.apple.com/legal/privacy/) for more details).
+*iCloud*. Some Apps may offer you the opportunity to store your data in your iCloud. Your iCloud account is with Apple, not with DailyBill. When you turn on iCloud Sync on your device, the App will copy your app device data to your private iCloud account. The App will keep the data on your device and the iCloud container in sync. iCloud Sync also allows you to have the app data in sync between several devices that use the same iCloud account. Information stored in iCloud is treated in accordance with the Apple Privacy Policy (please visit [Apple Customer Privacy Policy](http://www.apple.com/legal/privacy/) for more details).
 
 # Sharing your Personal Data.
 
-<u>Apple</u>: Our Apps may offer you the opportunity to store your data in your iCloud. Further, unless you do opt-out from Apple’s standard “Diagnostics & Usage” policy, your device will automatically send crash data whenever an App crashes on iOS, and we will also have access to your crash reports. [Click Here](https://www.apple.com/legal/privacy/) to review the Apple’s privacy policy.
+*Apple*: Our Apps may offer you the opportunity to store your data in your iCloud. Further, unless you do opt-out from Apple’s standard “Diagnostics & Usage” policy, your device will automatically send crash data whenever an App crashes on iOS, and we will also have access to your crash reports. [Click Here](https://www.apple.com/legal/privacy/) to review the Apple’s privacy policy.
 
 # Changes to this Privacy Policy.
 We let you know about any material changes to our Privacy Policy. If we decide to make material changes to our Privacy Policy, we will tell you on our website.
